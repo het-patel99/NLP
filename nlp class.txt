@@ -1,0 +1,19 @@
+date- 6th dec
+task - 1
+1. represent a piece of text
+2. paragraph 
+3. 
+
+task - 2
+COCA
+-> concordance 
+-> chart
+-> your reason 
+
+da - nlp development research tools
+
+h/w
+readable.com
+
+
+
